@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+  {
+    long base,altura,area;
+    base=5;
+    altura=10;
+    area=(base*altura)/2;
+
+    printf("El area del triangulo es:%ld",area);
+    return 0;
+  }
